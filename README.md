@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Goutham 👋
 
-<!--
-**Gouthamk996/Gouthamk996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an RPA developer focused on building automation solutions using UiPath.  
+I enjoy automating repetitive tasks and improving business processes through RPA.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Building UiPath automation projects using REFramework
+- Practicing automation design patterns like Dispatcher–Performer
+- Learning Agentic Automation with UiPath
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Generate Yearly Report Automation (UiPath)
+- Calculate Client Security Hash (UiPath)
+
+## Skills
+- UiPath Automation
+- REFramework
+- Agentic Automation (UiPath)
+- Database Automation
+- Regex
+- VB.NET (Basics)
+- Excel Automation
+- Web Automation
+
+## Certifications
+- UiPath Certified Professional Developer
+- UiPath Starter Certification
+
+## Currently Learning
+- Agentic Automation with UiPath
+- Advanced RPA solution design
+
+Thanks for visiting my profile.
